@@ -1,0 +1,51 @@
+{
+  "frequencySet": [
+    {
+      "frequencyHz": 455,
+      "isControlChannel": true
+    },
+    {
+      "frequencyHz": 457.25,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 459.5,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 461.75,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 464,
+      "isControlChannel": true
+    },
+    {
+      "frequencyHz": 466.25,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 468.5,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 470.75,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 473,
+      "isControlChannel": false
+    },
+    {
+      "frequencyHz": 475.25,
+      "isControlChannel": true
+    }
+  ],
+  "powerInWatts": "FIVE",
+  "bandwidth": "BANDWIDTH_11_8",
+  "sdkToken": "3a0433fe7e2671adb4cd7d87851d189f88bd23e82ab06013201642b868b02c8a",
+  "sdkAppId": "FCDE",
+  "takColor": "CYAN",
+  "locationOutputs": ["127.0.0.1:21351"],
+  "callsign": "ChangeMe"
+}

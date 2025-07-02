@@ -45,7 +45,7 @@
   "bandwidth": "BANDWIDTH_11_8",
   "sdkToken": "3a0433fe7e2671adb4cd7d87851d189f88bd23e82ab06013201642b868b02c8a",
   "sdkAppId": "FCDE",
-  "takColor": "WHITE",
+  "takColor": "RED",
   "locationOutputs": ["127.0.0.1:21351"],
-  "callsign": "RBN Test White"
+  "callsign": "RBN Test RED"
 }
